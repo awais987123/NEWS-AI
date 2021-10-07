@@ -1,5 +1,5 @@
 # News AI
-# [Live_Site](https://dazzling-shirley-f813bb.netlify.app/)
+### [Live_Site](https://dazzling-shirley-f813bb.netlify.app/)
 ![Chat_Application](https://i.ibb.co/jJDKJGC/My-Post.png)
 
 ## Setup to use and run it.
