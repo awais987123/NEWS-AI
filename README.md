@@ -7,6 +7,6 @@ You have to install following dependencies
 ### npm install
 ### npm i @material-ui/core @alan-ai/alan-sdk-web classnames 
 <br>
-create account on alan ai 
+create account on Alan Ai from alan.app 
 <br>
 create empty project name it and paste code i given in alen.js file
