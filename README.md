@@ -5,7 +5,6 @@
 You have to install following dependencies
 <br>
 ### npm install
-<br>
 ### npm i @material-ui/core @alan-ai/alan-sdk-web classnames 
 <br>
 create account on alan ai 
